@@ -80,3 +80,5 @@ If you use the code in this repository for your own research and publish about i
 
 Gohr A. (2019) Improving Attacks on Round-Reduced Speck32/64 Using Deep Learning. In: Boldyreva A., Micciancio D. (eds) Advances in Cryptology – CRYPTO 2019. CRYPTO 2019. Lecture Notes in Computer Science, vol 11693. Springer, Cham
 
+
+Ebrahimi, Amirhossein, Francesco Regazzoni, and Paolo Palmieri. "Reducing the cost of machine learning differential attacks using bit selection and a partial ml-distinguisher." International Symposium on Foundations and Practice of Security. Cham: Springer Nature Switzerland, 2022.
